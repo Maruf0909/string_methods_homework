@@ -6,5 +6,7 @@ def main(s):
     Returns:
         str: answer
     """
-    
-    return
+    Input: s="googl is a search engine "
+    return "Googl Is A Search Engine"
+
+print(main("googl is a search engine "))
