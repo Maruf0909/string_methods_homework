@@ -6,5 +6,7 @@ def main(s):
     Returns:
         str: answer
     """
+    Input: s="Mening Ismim Maruf"
 
-    return
+    return "mening ismim maruf"
+print(main("Mening Ismim Maruf"))
